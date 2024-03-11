@@ -1,6 +1,6 @@
 Aplikaccja typu CRUD. Umożliwiia dodawanie, usuwanie, edytowanie oraz odzytywanie produktów dietetycznych. 
 
-![image](https://github.com/JakubPasternak/DietProduts__CRUD/assets/155673250/caca8f6e-ff63-4b41-8717-2e8c176668a2)
+![Zrzut ekranu (1)](https://github.com/JakubPasternak/DietProduts__CRUD/assets/155673250/3c3510f0-04c7-4bbd-8ce7-267218f686eb)
 ![Zrzut ekranu (2)](https://github.com/JakubPasternak/DietProduts__CRUD/assets/155673250/8a2b63f3-50d4-4a96-931b-62c939c35269)
 ![Zrzut ekranu (3)](https://github.com/JakubPasternak/DietProduts__CRUD/assets/155673250/5fba64e8-b820-4da5-b0cb-b310ef95c8b4)
 ![Zrzut ekranu (4)](https://github.com/JakubPasternak/DietProduts__CRUD/assets/155673250/7f9292c8-48fb-4c85-927d-9482db40f646)
